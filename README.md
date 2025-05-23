@@ -18,6 +18,10 @@ or install in terminal:
 ```
 npm install baileys@github:ZeroGTX/baileys-v2
 ```
+sharp optimal version:
+```
+npm install sharp@0.34.1
+```
 
 Then import the default function in your code:
 ```ts 
